@@ -4,6 +4,7 @@
   "description": "An example Express, MySQL, & React app.",
   "main": "server/index.js",
   "scripts": {
+    "start": "nodemon -w node_modules -w server server/index.js",
     "test": "jest"
   },
   "repository": {
