@@ -1,0 +1,25 @@
+{
+  "name": "express-mysql-react-example",
+  "version": "0.1.0-alpha",
+  "description": "An example Express, MySQL, & React app.",
+  "main": "server/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smenjas/express-mysql-react-example.git"
+  },
+  "keywords": [
+    "express",
+    "mysql",
+    "react",
+    "example"
+  ],
+  "author": "Benjamin Thornton",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/smenjas/express-mysql-react-example/issues"
+  },
+  "homepage": "https://github.com/smenjas/express-mysql-react-example#readme"
+}
